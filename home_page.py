@@ -76,10 +76,10 @@ def home_page():
     # Interactive Demo Section
     with st.expander("🎯 Quick Start Guide", expanded=True):
         st.markdown("""
-        1. **Choose your tool** from the left navigation
-        2. **Upload** files or enter website URL
-        3. **Process** your data with one click
-        4. **Explore** results & visualizations
+        1. **Choose your tool** from the left navigation menu.
+        2. **Follow the instructions** in each tool's page.
+        3. **For detailed guidance**, visit the documentation page.
+        4. **For support**, reach out to the developer team.
         """)
         st.button("🚀 Get Started Now", use_container_width=True)
 

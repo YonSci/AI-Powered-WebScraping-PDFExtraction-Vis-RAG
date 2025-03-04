@@ -2,6 +2,11 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
+**GitHub Project Link:** [https://github.com/YonSci/AI-Powered-WebScraping-PDFExtraction-Vis-RAG](https://github.com/YonSci/AI-Powered-WebScraping-PDFExtraction-Vis-RAG)
+
+**Streamlit App Link:** [https://ai-powered-webscraping-pdfextraction-vis-rag-tc4fhuapp2cf8b2hf.streamlit.app/](https://ai-powered-webscraping-pdfextraction-vis-rag-tc4fhuapp2cf8b2hf.streamlit.app/)
+
+
 This AI-driven data extraction and analysis application designed to help you unlock valuable insights from diverse data sources, including websites and PDF documents. Leveraging cutting-edge techniques like web scraping, PDF table extraction, interactive data visualization, and Retrieval-Augmented Generation (RAG). This AI-powered data tool is developed in collaboration with the *African Centre for Statistics* of the *Economic Commission for Africa*. It aims to enhance data accessibility, extraction, and analysis capabilities for statistical offices and development stakeholders across Africa. Our application empowers you to transform raw data into actionable intelligence using cutting-edge techniques.
 
 
