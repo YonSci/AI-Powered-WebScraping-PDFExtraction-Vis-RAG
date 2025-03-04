@@ -72,7 +72,9 @@ def home_page():
             """, unsafe_allow_html=True)
 
     st.markdown("---")
-
+    
+    
+    
     # Interactive Demo Section
     with st.expander("🎯 Quick Start Guide", expanded=True):
         st.markdown("""

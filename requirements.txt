@@ -16,3 +16,4 @@ tabula-py==2.10.0
 transformers==4.49.0
 urllib3==2.3.0
 zipp==3.21.0
+XlsxWriter==3.2.2
