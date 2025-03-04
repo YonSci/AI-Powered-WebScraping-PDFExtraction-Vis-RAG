@@ -5,7 +5,6 @@ import pandas as pd
 import logging
 import camelot
 import re
-import PyPDF2
 from PyPDF2 import PdfReader, errors
 import base64
 import json
