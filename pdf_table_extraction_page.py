@@ -10,7 +10,7 @@ import base64
 import json
 import io  # <--- Added this line
 import tabula #<--Added this library
-from streamlit_image_coordinates import streamlit_image_coordinates
+# from streamlit_image_coordinates import streamlit_image_coordinates
 
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 
