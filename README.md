@@ -2,39 +2,56 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-**Synapse Insights** is an AI-driven data extraction and analysis application designed to help you unlock valuable insights from diverse data sources, including websites and PDF documents. Leveraging cutting-edge techniques like web scraping, PDF table extraction, interactive data visualization, and Retrieval-Augmented Generation (RAG), Synapse Insights empowers you to transform raw data into actionable intelligence.
+This AI-driven data extraction and analysis application designed to help you unlock valuable insights from diverse data sources, including websites and PDF documents. Leveraging cutting-edge techniques like web scraping, PDF table extraction, interactive data visualization, and Retrieval-Augmented Generation (RAG). This AI-powered data tool is developed in collaboration with the *African Centre for Statistics* of the *Economic Commission for Africa*. It aims to enhance data accessibility, extraction, and analysis capabilities for statistical offices and development stakeholders across Africa. Our application empowers you to transform raw data into actionable intelligence using cutting-edge techniques.
+
 
 ## Key Features
 
-*   **🌐 Web Scraping:** Effortlessly extract structured data (tables) and downloadable files from any website.
-    *   Support for custom URLs.
-    *   Advanced filtering by keywords, file types, years, and months.
-    *   Pagination handling for websites with multiple pages of data.
-    *   Option to use dynamic web scraping for complex websites.
-    *   Save and load configurations for recurring tasks.
-*   **📄 PDF Table Extraction:** Intelligently extract tabular data from PDF documents.
-    *   Choice between two powerful extraction engines: Camelot and Tabula-py.
-    *   Selection of extraction method (lattice or stream) based on the PDF structure.
-    *   Interactive table editing to correct errors before export.
-    *   Export extracted tables to CSV, Excel, or JSON.
-*   **🤖 RAG-Powered PDF Insights:** Engage in natural language question-answering with your PDF documents.
-    *   Ask complex questions and receive accurate answers based on the context of your uploaded files.
-    *   Multiple chunking strategies (Fixed Size with Overlap, Fixed Size without Overlap, Semantic Chunking with LangChain).
-    *   Selection of sentence embedding models for optimal context understanding.
-    *   Choice of Large Language Models (LLMs) for question-answering.
-    *   View highlighted text in the supporting context.
-*   **📊 Interactive Data Visualization:** Explore, transform, and visualize your data with interactive charts and plots.
-    *   Upload CSV or Excel files.
-    *   Adjust column data types for accurate analysis.
-    *   Create histograms, scatter plots, line charts, and bar charts.
-    *   Customize chart properties, including axis limits and row selection.
-    * Download transformed data.
-* **🔄 Configuration Management**: Save and Load configurations for the web scraping tool.
-* **💾 Download**: Download files as a ZIP archive.
+**🌐 Web Scraping:** Effortlessly extract and download statistical data (Excel, CSV, PDFs, JSON etc. ) from any website.  
+
+➡️ Select a country or enter a custom URL.  
+➡️ Define table identification options (if needed).  
+➡️ Set up file filtering and general keyword options.  
+➡️ Select additional filters (year, month).  
+➡️ Configure pagination settings (if needed).  
+➡️ Click "Extract Data" to start scraping.  
+➡️ Review extracted table data and file links.  
+➡️ Download files as a ZIP archive.  
+➡️ Save or load configurations.  
+
+
+**📄 PDF Table Extraction:** Intelligently extract tabular data from PDF documents.
+
+➡️ Upload one or more PDF files.    
+➡️ Select the extraction engine (Camelot or Tabula-py).  
+➡️ Select the extraction method (`lattice` or `stream`).  
+➡️ Select the pages to process.  
+➡️ Click "Extract Tables".  
+➡️ Review, edit, and download the extracted tables in CSV, Excel, or JSON format.  
+
+**📊 Interactive Data Visualization:** Explore, transform, and visualize your data with interactive charts and plots.
+
+➡️ Upload a CSV or Excel file.  
+➡️ Adjust column data types as needed.  
+➡️ Select a row range for visualization.  
+➡️ Choose the type of plot (Histogram, Scatter Plot, Line Chart, or Bar Chart).  
+➡️ Customize plot settings.  
+➡️ Download the transformed data in CSV format.  
+
+
+**🤖 RAG-Powered PDF Insights:** Engage in natural language question-answering with your PDF documents using Large Language Model (LLM) RAG capabilities.
+
+➡️ Upload one or more PDF files.  
+➡️ Select a chunking strategy and set chunking parameters.  
+➡️ Choose a sentence embedding model.  
+➡️ Select a Large Language Model (LLM).  
+➡️ Enter your question.  
+➡️ Adjust settings (max answer length, confidence threshold).  
+➡️ Click "Generate Response" to get the answer and context.  
+
+
 
 ## Target Audience
-
-Synapse Insights is particularly well-suited for:
 
 *   **National Statistical Offices:** Extract and analyze data for reporting and policymaking.
 *   **National Statistical Systems:** Streamline data gathering and processing from various sources.
@@ -46,7 +63,6 @@ Synapse Insights is particularly well-suited for:
 
 *   **AI-Powered Efficiency:** Leverage AI to automate complex data extraction and analysis tasks.
 *   **Multi-Source Data:** Integrate data from websites and PDFs into a single workflow.
-*   **Data-Driven Decision Making:** Gain actionable insights from your data.
 *   **Interactive Exploration:** Visualize and explore data trends and patterns interactively.
 *   **Customizable and Flexible:** Adapt the application to your specific needs with different settings and configurations.
 * **User-Friendly**: The tool is user-friendly and easy to use.
@@ -72,8 +88,8 @@ Synapse Insights is particularly well-suited for:
 
 1.  **Clone the Repository:**
     ```bash
-    git clone <repository-url>
-    cd <repository-name>
+    git clone https://github.com/YonSci/AI-Powered-WebScraping-PDFExtraction-Vis-RAG.git
+    cd AI-Powered-WebScraping-PDFExtraction-Vis-RAG
     ```
 
 2.  **Create a Virtual Environment:**
@@ -108,7 +124,7 @@ Contributions are welcome! Please open an issue or submit a pull request.
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE.txt) file for details.
 
 ## Contact
 
