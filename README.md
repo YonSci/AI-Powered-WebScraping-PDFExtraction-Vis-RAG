@@ -112,7 +112,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-For any questions, feedback, or issues, please contact the developer at [yonas.yigezu@un.org](mailto:yonas.yigezu@un.org).
+For any questions, feedback, or issues, please contact the developer at [yonas.yigezu@un.org](mailto:yonas.yigezu@unorg) & [seidoui@un.org](mailto:seidoui@un.org)
 
 ## Collaboration
 
