@@ -1,4 +1,4 @@
-# Synapse Insights: AI-Powered RAG & Data Hub
+# AI-Powered Web Scraping, PDF Data Extraction, Visualization & PDF QA Tool
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
@@ -90,7 +90,7 @@ This AI-driven data extraction and analysis application designed to help you unl
     ```bash
     git clone https://github.com/YonSci/AI-Powered-WebScraping-PDFExtraction-Vis-RAG.git
     cd AI-Powered-WebScraping-PDFExtraction-Vis-RAG
-    ```
+
 
 2.  **Create a Virtual Environment:**
     ```bash
