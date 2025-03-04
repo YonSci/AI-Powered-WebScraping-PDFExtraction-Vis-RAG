@@ -1,0 +1,30 @@
+{
+    "custom_url": "",
+    "selected_country": "Botswana",
+    "custom_file_name": "",
+    "custom_file_type": [
+        ".csv",
+        ".pdf",
+        ".xls",
+        ".xlsx"
+    ],
+    "custom_keywords": "",
+    "query_keywords_all": [],
+    "query_keywords_any": [
+        "CPI",
+        "Customer Price Index"
+    ],
+    "selected_years": [
+        "2025"
+    ],
+    "selected_months": [
+        "January"
+    ],
+    "table_id": "",
+    "table_class": "",
+    "table_keyword": "",
+    "use_dynamic_content": false,
+    "url_list": [
+        "https://www.statsbots.org.bw/"
+    ]
+}
