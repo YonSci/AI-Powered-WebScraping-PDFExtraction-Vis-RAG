@@ -139,3 +139,4 @@ For any questions, feedback, or issues, please contact the developer at [yonas.y
 
 This tool is developed in collaboration with the **African Centre for Statistics** of the **Economic Commission for Africa**.
 
+[![Demo Video](https://img.youtube.com/vi/a3qRaXbhUUk/0.jpg)](https://youtu.be/a3qRaXbhUUk)</br>
